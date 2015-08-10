@@ -3,10 +3,16 @@
 
     <string name="app_name">Sunshine</string>
     <string name="hello_world">Hello world!</string>
+
     <string name="action_settings">Settings</string>
     <string name="action_refresh">Refresh</string>
+    <string name="action_map">Map Location</string>
+    <string name="action_share">Share</string>
+
     <string name="title_activity_detail">Details</string>
     <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_previa_contracheque">PreviaContracheque</string>
+
     <string name="pref_location_key">location</string>
     <string name="pref_location_label">Location</string>
     <string name="pref_location_default">94043</string>
@@ -16,8 +22,16 @@
     <string name="pref_units_metric">metric</string>
     <string name="pref_units_label_imperial">Imperial</string>
     <string name="pref_units_imperial">imperial</string>
-    <string name="action_map">Map Location</string>
-    <string name="action_share">Share</string>
-    <string name="title_activity_previa_contracheque">PreviaContracheque</string>
+
+    <!--Zip Codigo de Cidades-->
+    <!--94040 	Mountain View, US-->
+    <!--94043 	Mountain View, US-->
+    <!--sqlite> select * from location;-->
+    <!--select * from location;-->
+    <!--1|99705|North Pole|64.7488|-147.353-->
+    <!--2|94043|Mountain View|37.4056|-122.0775-->
+    <!--3|goiania|Goiania|-16.67861|-49.253891-->
+    <!--4|Goiania|Goiania|-16.67861|-49.253891-->
+    <!--5|94040|Mountain View|37.386051|-122.083847-->
 
 </resources>
